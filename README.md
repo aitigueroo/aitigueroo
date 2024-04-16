@@ -1,8 +1,6 @@
-# <img src="https://giphy.com/gifs/cartoon-hello-kitty-sanrio-3o6wO1nlX9tiL0xWx2" width=""> 
+# <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjUybWVlbWVqa2VheTQyc2RkeWEyc2huOWwzaTVnYzV5OWo2ejJwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QXJk9Nsk3YvqwQsPZs/giphy.gif" width="" />
  Bienvenido a mi github 
-###
-
- 
+### 
 
 <!--
 **aitigueroo/aitigueroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
