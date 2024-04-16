@@ -3,6 +3,31 @@
 # Bienvenido a mi github✨
 ### 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div> 
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aitana-aguero-1b1538264/)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) </div>
 <!--
 **aitigueroo/aitigueroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
