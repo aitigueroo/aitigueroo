@@ -1,4 +1,4 @@
-# <iframe src="https://giphy.com/embed/QXJk9Nsk3YvqwQsPZs" width="400" height="182" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/sanrioinc-sanrio-cinnamoroll-sanrio60-QXJk9Nsk3YvqwQsPZs" ></a></p>Bienvenido a mi github ✨
+# <img src="https://giphy.com/embed/QXJk9Nsk3YvqwQsPZs" width="400" height="182">Bienvenido a mi github ✨
 ###
 
  
