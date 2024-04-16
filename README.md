@@ -1,4 +1,4 @@
- <img src="https://image.emojipng.com/51/1944051.jpg" width="400"  />
+ <img src="https://image.emojipng.com/51/1944051.jpg" width="400" aling=”middle” />
 
 # Bienvenido a mi github✨
 ### 
