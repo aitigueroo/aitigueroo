@@ -1,4 +1,4 @@
- <img src="https://i.pinimg.com/564x/c1/37/ab/c137ab132c21a2471a4ea2665a56c3c0.jpg" width="400" height="150" aling="center" />
+ <img src="https://i.pinimg.com/564x/48/4f/72/484f7219c122ff3d5b7ffd6e3095d299.jpg" width="400" height="150" aling="center" />
 
 # Bienvenido a mi github✨
 ### 
