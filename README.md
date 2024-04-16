@@ -1,4 +1,6 @@
-# <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjUybWVlbWVqa2VheTQyc2RkeWEyc2huOWwzaTVnYzV5OWo2ejJwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QXJk9Nsk3YvqwQsPZs/giphy.gif" width="180" />Bienvenido a mi github✨
+ <img src="https://image.emojipng.com/51/1944051.jpg" width="400"  />
+
+# Bienvenido a mi github✨
 ### 
 
 <!--
