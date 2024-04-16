@@ -1,5 +1,4 @@
-# <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjUybWVlbWVqa2VheTQyc2RkeWEyc2huOWwzaTVnYzV5OWo2ejJwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QXJk9Nsk3YvqwQsPZs/giphy.gif" width="" />
- Bienvenido a mi github 
+# <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjUybWVlbWVqa2VheTQyc2RkeWEyc2huOWwzaTVnYzV5OWo2ejJwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QXJk9Nsk3YvqwQsPZs/giphy.gif" width="" /> Bienvenido a mi github✨
 ### 
 
 <!--
