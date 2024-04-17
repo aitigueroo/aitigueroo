@@ -4,7 +4,7 @@
 ### 
 
 
-Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mi nombre es Aitana Aguero
+ ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mi nombre es Aitana Aguero
 =====================================================================================================================================
 
 Web developer y QA  <img src="https://i.pinimg.com/564x/e0/5c/5c/e05c5c60807992afe20da57c5dcfa5f7.jpg" width="80" height="80" aling="center" />
